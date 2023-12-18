@@ -1,3 +1,10 @@
+Novedades
+=========
+
+.. autosummary::
+   :toctree: generated
+
+
 ## Novedades del Proyecto
 
 Bienvenido al apartado de novedades, tu fuente centralizada para mantenerte al día con los últimos avances en nuestro emocionante proyecto. Aquí encontrarás información detallada sobre las últimas actualizaciones, características innovadoras y mejoras significativas que hemos implementado para mejorar tu experiencia.
