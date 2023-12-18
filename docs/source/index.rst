@@ -19,5 +19,6 @@ Contents
 .. toctree::
 
    news
+   techResources
    usage
    api
