@@ -5,11 +5,12 @@ Novedades
    :toctree: generated
 
 
-## Novedades del Proyecto
+Novedades del Proyecto
 
 Bienvenido al apartado de novedades, tu fuente centralizada para mantenerte al día con los últimos avances en nuestro emocionante proyecto. Aquí encontrarás información detallada sobre las últimas actualizaciones, características innovadoras y mejoras significativas que hemos implementado para mejorar tu experiencia.
 
-### ¿Qué encontrarás aquí?
+¿Qué encontrarás aquí?
+
 - **Actualizaciones Recientes:** Exploraremos las últimas modificaciones realizadas en el proyecto, destacando los cambios clave que afectan positivamente a nuestra plataforma.
 
 - **Nuevas Características:** Descubre las emocionantes adiciones que hemos introducido para enriquecer la funcionalidad y ofrecer soluciones más robustas a nuestras comunidades.
